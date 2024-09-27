@@ -1,0 +1,98 @@
+
+.fourk{
+
+    width: 400px;
+
+}
+
+
+.racoon{
+
+    width: 200px;
+
+    border-radius: 25px;
+
+    transition: 10ms;
+}
+
+.racoon:hover{
+
+        transform: scaleX(-1);
+    box-shadow: 0 0 12px 6px limegreen;
+
+}
+
+.trump{
+
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+
+}
+
+
+.teleskåp{
+
+    width: 500px;
+    border-radius: 100%;
+
+}
+
+
+
+
+.marabou{
+
+    width: 100px;
+    border: 2.5px solid black;
+    border-radius: 10px;
+    
+}
+
+
+.marabou:hover{
+
+    box-shadow: 0 0 4px 2px white;
+
+}
+
+
+.paris{
+
+    border-radius: 20px;
+    width: 300px;
+    border: 3px solid black;
+
+}
+
+
+.paris:hover{
+
+    box-shadow: 0 0 8px 4px white;
+
+}
+
+
+
+
+img{
+
+max-width: 100%;
+
+
+
+}
+
+
+body{
+
+background-color: grey;
+
+
+}
+
+h1,h2{
+color: black;
+
+}
